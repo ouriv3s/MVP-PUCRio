@@ -1,0 +1,17 @@
+﻿#;Atributo;Descricao;Tipo de dados
+0;year;The manufacturing year of the vehicle;int64
+1;make;The brand or manufacturer of the vehicle;object
+2;model;The specific model of the vehicle;object
+3;trim;Additional designation for the vehicle model;object
+4;body;The body type of the vehicle (e.g., SUV, Sedan);object
+5;transmission;The type of transmission in the vehicle (e.g., automatic);object
+6;vin;Vehicle Identification Number, a unique code for each vehicle;object
+7;state;The state where the vehicle is registered;object
+8;condition;Condition of the vehicle, possibly rated on a scale;float64
+9;odometer;The mileage or distance traveled by the vehicle;float64
+10;color;Exterior color of the vehicle;object
+11;interior;Interior color of the vehicle;object
+12;seller;The entity selling the vehicle;object
+13;mmr;Manheim Market Report, possibly indicating the estimated market value of the vehicle;float64
+14;sellingprice;The price at which the vehicle was sold;float64
+15;saledate;The date and time when the vehicle was sold;object
